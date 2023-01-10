@@ -1,2 +1,2 @@
-# smart-contract-security
+# smart-contct-security
 Smart contracsecurity sample...
